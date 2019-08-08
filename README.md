@@ -17,10 +17,10 @@ A CodeMirror mode for Ethereum Solidity development
 
 ## Installation instructions
 
-+ Install from NPM: `npm install codemirror-solidity`
++ Install from github public repo: `https://github.com/awesomeUA/codemirror-solidity`
 + Include the new mode into your project, e.g.
 ```
-<script src="./node_modules/codemirror-solidity/solidity.js"></script>
+import 'codemirror-solidity/solidity.js'
 ```
 + Set the mode to `text/x-solidity` in your editor, e.g.
 
